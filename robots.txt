@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wqeat.github.io/VcS/sitemap.VcS.gz
